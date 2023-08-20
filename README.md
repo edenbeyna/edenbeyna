@@ -1,4 +1,4 @@
- **About Me**  🎮
+## **About Me** 🚀
 
 Hey there! I'm Eden, a CS enthusiast currently in my third year at the Hebrew University of Jerusalem.
 
