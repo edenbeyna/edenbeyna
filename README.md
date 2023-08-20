@@ -17,7 +17,7 @@ Here are some of the programming languages and technologies I wield:
 
 ## **Let's Connect** 🌐
 
-💼 LinkedIn: Eden Beyna https://www.linkedin.com/in/eden-beyna-84a847201/
+💼 LinkedIn: Eden Beyna (https://www.linkedin.com/in/eden-beyna-84a847201/)
 
 Connect with me on GitHub and let's embark on this coding adventure together! 🌟
 
