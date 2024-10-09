@@ -1,6 +1,6 @@
 ## **About Me** 🚀
 
-Hey there! I'm Eden, a CS enthusiast currently in my third year at the Hebrew University of Jerusalem.
+Hey there! I'm Eden 
 
 I'm all about turning lines of code into creative solutions and cracking intriguing problems
 
